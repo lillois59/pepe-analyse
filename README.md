@@ -30,3 +30,17 @@ Visualization: The function plot_pepe_data() uses matplotlib to plot PEPE’s pr
 
 Running the Script:
 python3 pepe.py
+
+## Running locally
+
+Install the required dependencies:
+
+```bash
+pip install requests pandas matplotlib
+```
+
+Run the project:
+
+```bash
+python3 pepe.py
+```
